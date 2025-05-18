@@ -53,9 +53,9 @@ A Python script is used to visualize:
 - Centers (*) in black
 
 ## 🚀How to Run
-Compile the Java files using: javac *.java
+Compile using: javac *.java
 
-Run the simulation using: java KMeans
+Run using: java KMeans
 
 ## 📘 Course Info
 - **Course:** Υπολογιστική Νοημοσύνη (Computational Intelligence)
