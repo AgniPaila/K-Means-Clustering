@@ -58,5 +58,5 @@ Compile using: javac *.java
 Run using: java KMeans
 
 ## 📘 Course Info
-- **Course:** Υπολογιστική Νοημοσύνη (Computational Intelligence)
+- **Course:** Υπολογιστική Νοημοσύνη (Computational Intelligence - 4th year)
 - **Team:** This project was implemented in collaboration with one other student.
